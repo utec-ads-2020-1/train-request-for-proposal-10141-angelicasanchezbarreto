@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/RequestProposal/funciones.cpp
+funciones.h
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/RequestProposal/funciones.h
+sstream
+-
+
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/RequestProposal/funciones.h
+iostream
+-
+vector
+-
+string
+-
+
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/RequestProposal/main.cpp
+funciones.cpp
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/RequestProposal/funciones.cpp
+
